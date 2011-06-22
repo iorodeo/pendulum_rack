@@ -1,5 +1,5 @@
 """
-Creates an enclosure
+Makes a simple rack for the pendulum experiment kit
 """
 from py2scad import *
 import scipy
